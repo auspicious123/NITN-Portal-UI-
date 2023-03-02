@@ -6,11 +6,11 @@ It is built using PHP, Bootstrap, and MySQL, and contributions to the UI must us
 # Getting Started
 To get started with contributing to the UI, you will need to do the following:
 
-* 1. Fork this repository
-* 2. Clone the forked repository to your local machine
-* 3. Make changes to the UI using CSS and Bootstrap
-* 4. Commit and push your changes to your forked repository
-* 5. Create a pull request to merge your changes into the main repository
+- 1. Fork this repository
+- 2. Clone the forked repository to your local machine
+- 3. Make changes to the UI using CSS and Bootstrap
+- 4. Commit and push your changes to your forked repository
+- 5. Create a pull request to merge your changes into the main repository
 
 # Contributing Guidelines
 Please follow the guidelines below when contributing to the UI:
